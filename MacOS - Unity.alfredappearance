@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#515151FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FFFFFF66"
+      },
+      "backgroundSelected" : "#FFFFFF7F",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#515151FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FFFFFF00",
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FCFFFF4D",
+      "paddingHorizontal" : 1,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 35,
+      "roundness" : 8,
+      "paddingVertical" : 8
+    },
+    "credit" : "Kevllar",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FFFFFF7F",
+      "thickness" : 2
+    },
+    "name" : "MacOS - Unity"
+  }
+}
